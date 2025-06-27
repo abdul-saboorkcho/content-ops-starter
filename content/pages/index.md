@@ -1,5 +1,5 @@
 ---
-title: Home
+title: 
 slug: /
 sections:
   - type: GenericSection
@@ -737,9 +737,9 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Welcome to - Auditory & Optical store
-  metaDescription: "Hear Better, See Brighter"
+  metaTitle: khco - khalil hearing care and optics
+  metaDescription: hearing aid and eye glases
   socialImage: /images/main-hero.jpg
-  type: Seo
+  type: Seo+
 type: PageLayout
 ---
