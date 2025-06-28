@@ -71,9 +71,9 @@ Your hearing. Your vision. Your life – we care for it all.",
     },
     "socialLinks": [
         {
-            "altText": "facebook link",
-            "url": "https://www.facebook.com/Hearingcareandoptic/",
-            "icon": "facebook-f",
+            "altText": "",
+            "url": "",
+            "icon": "",
             "type": "Social"
         },
         {
@@ -83,9 +83,9 @@ Your hearing. Your vision. Your life – we care for it all.",
             "type": "Social"
         },
         {
-            "altText": "google map",
-            "url": "https://g.co/kgs/zbPAoL6",
-            "icon": "add_location",
+            "altText": "",
+            "url": "",
+            "icon": "",
             "type": "Social"
         },
         {
