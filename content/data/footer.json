@@ -21,7 +21,7 @@ Your hearing. Your vision. Your life – we care for it all.",
             {
                 "label": "Features",
                 "altText": "Features page",
-                "url": "/blog",
+                "url": "",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -37,7 +37,7 @@ Your hearing. Your vision. Your life – we care for it all.",
             },
             {
                 "label": "Documentation",
-                "url": "/blog",
+                "url": "",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -78,7 +78,7 @@ Your hearing. Your vision. Your life – we care for it all.",
         },
         {
             "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
+            "url": "",
             "icon": "twitter",
             "type": "Social"
         },
@@ -90,7 +90,7 @@ Your hearing. Your vision. Your life – we care for it all.",
         },
         {
             "altText": "Email link",
-            "url": "/https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWstptQxzKqvPKpJhmpcnMqnJTLgjsNQFWrvjTpmNLsMtndLQLCsBBzSwSWwTDDWkvJzDsCVG",
+            "url": "/",
             "icon": "mail",
             "type": "Social"
         }
