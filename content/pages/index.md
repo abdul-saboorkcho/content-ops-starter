@@ -168,8 +168,8 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - url: [/images/empathy-logo.svg](https://brandfetch.com/widex.com?view=library&library=default&collection=logos&asset=idDek6O_wm&utm_source=https%253A%252F%252Fbrandfetch.com%252Fwidex.com&utm_medium=copyAction&utm_campaign=brandPageReferral)
+        altText: widex
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
