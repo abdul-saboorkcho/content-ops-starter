@@ -10,13 +10,23 @@
                 "sections": [
                     {
                         "title": {
-                            "text": "Unblock your team boost your time to production",
+                            "text": "Unblock your fear boost your time to hearing",
                             "color": "text-dark",
                             "styles": null,
                             "$$type": "TitleBlock"
                         },
                         "subtitle": "Subtitle goes here",
-                        "text": "A Netlify website is a git repo that you own. Every code commit is instantly reflected in the visual editor and since every visual edit is a git commit, git workflows and collaboration just work.\n",
+                        "text": "Welcome to Khalil Hearing Care and Optics – Your Trusted Partner in Audiology & Eye Care
+
+At Khalil Hearing Care and Optics, we are dedicated to improving your quality of life through expert hearing and vision care. As a full-service audiological and optical clinic, we offer a wide range of professional services and high-quality products tailored to meet your individual needs.
+
+Our audiology department provides comprehensive diagnostic and rehabilitative services, including hearing tests, PTA (Pure Tone Audiometry), tympanometry, and other advanced hearing assessments. We also specialize in fitting and selling top-brand hearing aids, hearing aid batteries, ear molds, and hearing accessories to ensure you hear the world clearly and confidently.
+
+In our optical section, we provide thorough eye examinations, expert vision consultations, and a stylish collection of eyeglasses, sunglasses, lenses, and contact lenses to suit every face and lifestyle.
+
+Whether you're looking to improve your hearing, enhance your vision, or both — Khalil Hearing Care and Optics is your one-stop destination for trusted care, modern technology, and personalized service.
+
+Your hearing. Your vision. Your life – we care for it all.",
                         "actions": [
                             {
                                 "label": "Get started",
@@ -203,8 +213,8 @@
                         "subtitle": "Award winning enterprises trust us",
                         "images": [
                             {
-                                "url": "/images/empathy-logo.svg",
-                                "altText": "Empathy logo",
+                                "url": "https://brandfetch.com/widex.com?view=library&library=default&collection=logos&asset=idDek6O_wm&utm_source=https%253A%252F%252Fbrandfetch.com%252Fwidex.com&utm_medium=copyAction&utm_campaign=brandPageReferral",
+                                "altText": "widex logo",
                                 "elementId": null,
                                 "styles": null,
                                 "$$type": "ImageBlock"
