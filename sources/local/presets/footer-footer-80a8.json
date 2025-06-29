@@ -13,7 +13,17 @@
                     "$$type": "ImageBlock"
                 },
                 "title": null,
-                "text": "A description of your brand",
+                "text": "Welcome to Khalil Hearing Care and Optics – Your Trusted Partner in Audiology & Eye Care
+
+At Khalil Hearing Care and Optics, we are dedicated to improving your quality of life through expert hearing and vision care. As a full-service audiological and optical clinic, we offer a wide range of professional services and high-quality products tailored to meet your individual needs.
+
+Our audiology department provides comprehensive diagnostic and rehabilitative services, including hearing tests, PTA (Pure Tone Audiometry), tympanometry, and other advanced hearing assessments. We also specialize in fitting and selling top-brand hearing aids, hearing aid batteries, ear molds, and hearing accessories to ensure you hear the world clearly and confidently.
+
+In our optical section, we provide thorough eye examinations, expert vision consultations, and a stylish collection of eyeglasses, sunglasses, lenses, and contact lenses to suit every face and lifestyle.
+
+Whether you're looking to improve your hearing, enhance your vision, or both — Khalil Hearing Care and Optics is your one-stop destination for trusted care, modern technology, and personalized service.
+
+Your hearing. Your vision. Your life – we care for it all.",
                 "primaryLinks": {
                     "title": "Product",
                     "links": [
@@ -86,21 +96,21 @@
                 "socialLinks": [
                     {
                         "altText": "GitHub link",
-                        "url": "https://github.com/netlify",
+                        "url": "",
                         "icon": "github",
                         "elementId": null,
                         "$$type": "Social"
                     },
                     {
                         "altText": "Twitter link",
-                        "url": "https://twitter.com/netlify",
+                        "url": "",
                         "icon": "twitter",
                         "elementId": null,
                         "$$type": "Social"
                     },
                     {
                         "altText": "LinkedIn link",
-                        "url": "https://www.linkedin.com/company/netlify",
+                        "url": "",
                         "icon": "linkedin",
                         "elementId": null,
                         "$$type": "Social"
@@ -137,7 +147,7 @@
                         "$$type": "Link"
                     }
                 ],
-                "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+                "copyrightText": "Powered by [khalil hearing care and optics/)",
                 "colors": "bg-dark-fg-light",
                 "styles": null
             },
